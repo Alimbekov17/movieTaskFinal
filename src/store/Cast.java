@@ -1,7 +1,4 @@
 package store;
-
-import java.util.List;
-
 public class Cast{
     private String actorName;
     private String actorSurname;

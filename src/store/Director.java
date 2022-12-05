@@ -1,7 +1,4 @@
 package store;
-
-import java.util.List;
-
 public class Director{
     private String directorName;
     private String directorSurName;

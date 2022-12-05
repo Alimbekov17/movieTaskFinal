@@ -148,7 +148,7 @@ public class FindImpl implements Findable {
         Scanner scanner = new Scanner(System.in);
         int counter = 0;
         int a = 0;
-        String year = null;
+        String year;
         System.out.print("Enter a year: ");
         while (a < 5){
             a++;
